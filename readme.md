@@ -30,7 +30,7 @@ Next, from the project folder, install the dependencies:
 
     node seed.js
 
-### Run the Tests
+### Run the Tests 
 
 You're almost done! Run the tests to make sure everything is working:
 
